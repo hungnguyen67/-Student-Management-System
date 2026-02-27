@@ -2,7 +2,8 @@
 
 ## 1. Thông tin chung
 - **Dự án:** Hệ thống quản lý sinh viên (SMS)
-- **Thành viên:** Nhóm 01
+- **Thành Viên**: 
+    - Nguyễn Tuấn Hưng (BIT230186)
 - **Công cụ áp dụng:** GitHub Issues, Jira Software (Giả lập)
 
 ## 2. Liên kết tài liệu
