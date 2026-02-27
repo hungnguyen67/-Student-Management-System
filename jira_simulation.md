@@ -39,10 +39,13 @@
 ## 5. Báo cáo & Thống kê
 
 ### Lỗi theo Trạng thái (Bug by Status)
-- **Mới/Mở (New/Open):** 50% (4 lỗi)
+- **Mới/Mở (New/Open):** 25% (2 lỗi)
 - **Đang xử lý (In Progress):** 12.5% (1 lỗi)
-- **Đã sửa/Đang kiểm lại (Fixed/QA Verify):** 25% (2 lỗi)
-- **Hoàn thành (Done):** 12.5% (1 lỗi)
+- **Đã sửa (Fixed):** 12.5% (1 lỗi)
+- **Đang kiểm lại (QA Verify):** 25% (2 lỗi)
+- **Hoàn thành (Done):** 25% (2 lỗi)
+  
+<img width="801" height="770" alt="image" src="https://github.com/user-attachments/assets/d9298d01-498d-47be-812f-526f3618df49" />
 
 ### Lỗi theo Độ ưu tiên (Bug by Priority)
 - **P1 (Cao nhất):** 25% (2 lỗi)
@@ -50,8 +53,12 @@
 - **P3 (Trung bình):** 25% (2 lỗi)
 - **P4 (Thấp):** 37.5% (3 lỗi)
 
+<img width="802" height="725" alt="image" src="https://github.com/user-attachments/assets/ce1d7639-716a-41f3-95c5-567d0e7c6539" />
+
 ### Xu hướng lỗi (Bug Trend - 7 ngày qua)
 - **Ngày 1:** Phát hiện 4 lỗi
 - **Ngày 3:** Phát hiện 3 lỗi
 - **Ngày 5:** Phát hiện 1 lỗi
 - **Nhận xét:** Số lượng lỗi mới đang giảm dần, hệ thống đang dần ổn định.
+
+<img width="799" height="736" alt="image" src="https://github.com/user-attachments/assets/e4329d95-5f8b-4292-ac81-22c973f0eb9d" />
